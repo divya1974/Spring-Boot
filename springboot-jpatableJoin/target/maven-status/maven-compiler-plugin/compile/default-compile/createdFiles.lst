@@ -1,0 +1,8 @@
+com\springproject\jpatablejoin\service\JoinService.class
+com\springproject\jpatablejoin\controllers\JoinController.class
+com\springproject\jpatablejoin\entity\Department.class
+com\springproject\jpatablejoin\entity\Employee.class
+com\springproject\jpatablejoin\repository\DepartmentRepository.class
+com\springproject\jpatablejoin\entity\DeptEmpDto.class
+com\springproject\jpatablejoin\repository\EmployeeRepository.class
+com\springproject\jpatablejoin\App.class
